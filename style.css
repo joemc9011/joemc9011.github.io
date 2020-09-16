@@ -1,0 +1,19 @@
+#top {
+    color: palevioletred;
+}
+
+#money {
+    color: lightgreen;
+}
+
+body {
+    background-color: steelblue;
+    text-align: center;
+}
+
+#picture {
+    border: solid 15px yellow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
